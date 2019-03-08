@@ -1,0 +1,9 @@
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\bin\Release\NameSorterTests.dll
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\bin\Release\NameSorterTests.pdb
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\bin\Release\Helpers.dll
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\bin\Release\name-sorter.exe
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\bin\Release\Helpers.pdb
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\bin\Release\name-sorter.pdb
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\obj\Release\NameSorterTests.csprojResolveAssemblyReference.cache
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\obj\Release\NameSorterTests.dll
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Tests\NameSorterTests\obj\Release\NameSorterTests.pdb

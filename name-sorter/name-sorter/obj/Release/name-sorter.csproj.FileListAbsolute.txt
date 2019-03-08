@@ -1,0 +1,8 @@
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\name-sorter\bin\Release\name-sorter.exe.config
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\name-sorter\bin\Release\name-sorter.exe
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\name-sorter\bin\Release\name-sorter.pdb
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\name-sorter\bin\Release\Helpers.dll
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\name-sorter\bin\Release\Helpers.pdb
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\name-sorter\obj\Release\name-sorter.csprojResolveAssemblyReference.cache
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\name-sorter\obj\Release\name-sorter.exe
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\name-sorter\obj\Release\name-sorter.pdb

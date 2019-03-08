@@ -1,0 +1,4 @@
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\bin\Release\Helpers.dll
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\bin\Release\Helpers.pdb
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\obj\Release\Helpers.dll
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\obj\Release\Helpers.pdb

@@ -1,0 +1,5 @@
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\bin\Debug\Helpers.dll
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\bin\Debug\Helpers.pdb
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\obj\Debug\Helpers.dll
+C:\Users\rowa\Documents\Visual Studio 2013\Projects\name-sorter\Helpers\obj\Debug\Helpers.pdb
